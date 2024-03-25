@@ -1,0 +1,16 @@
+* {
+    background-color: #0070b7;
+    color: white;
+    font-size: 16px;
+    font-family: Helvetica;
+}
+
+input {
+    background-color: white;
+    border-radius:10px;
+    color: #0070b7;
+}
+
+p {
+    font-weight: 500; 
+}
